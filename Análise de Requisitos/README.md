@@ -12,7 +12,7 @@ A imagem a baixo irá indicar como foi feita a análise deste projeto, onde foi 
 
 <img src="/img/ref_img.jpg">
 
-1.Indicação da imagem a ser analisada
-2.Indicação de qual Requerimento iremos analisar, indicando seu numero e nome
-2.Descrição em alto da funcionalidade, indicando o usuário que irá utilizar, a 3.funcionalidade desejada e o porque da existencia deste funcionalidade.
-4.Listagem das regras de negócio a serem implementadas.
+1. Indicação da imagem a ser analisada
+2. Indicação de qual Requerimento iremos analisar, indicando seu numero e nome
+3. Descrição em alto da funcionalidade, indicando o usuário que irá utilizar, a 3.funcionalidade desejada e o porque da existencia deste funcionalidade.
+4. Listagem das regras de negócio a serem implementadas.
