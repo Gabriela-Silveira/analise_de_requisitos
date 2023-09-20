@@ -5,12 +5,12 @@ Este projeto foi criado com o propósito de práticar o levantamento de requisit
 ### Protótipo
 - Protótipo do Figma: [Grocery App Template](https://www.freefigmatemplates.com/gallery/grocery-app-template)
 
-<img src="/img/prototipo.jpg">
+<img src="Análise de Requisitos/img/prototipo.jpg">
 
 ### Análise do Projeto
 A imagem a baixo irá indicar como foi feita a análise deste projeto, onde foi utilizado o **MIRO** para fazer a análise de forma visual.
 
-<img src="/img/ref_img.jpg">
+![prototipo](../img/ref_img.jpg)
 
 1. Indicação da imagem a ser analisada
 2. Indicação de qual Requerimento iremos analisar, indicando seu numero e nome
