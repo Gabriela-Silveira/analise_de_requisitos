@@ -11,4 +11,4 @@ Projeto desenvolvido para demonstrar análise de requisitos e plano de testes.
 
 ### Portfólio Plano de Teste
 
--Site utilizado para elaboração do Plano Saucedemo
+-Site utilizado para elaboração do Plano Saucedemo: [Aqui](https://www.saucedemo.com/)
